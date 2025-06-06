@@ -1,7 +1,7 @@
 <template>
   <main class="min-vh-100 position-relative">
     <div class="img-cont w-100 position-absolute overflow-hidden min-vh-100">
-      <img class="img-fluid" src="/images/pattern-hills.svg" alt="">
+      <img class="img-fluid w-100" src="/images/pattern-hills.svg" alt="">
     </div>
     <span class="text-center text-uppercase d-block">We're launching soon</span>
     <div class="clock my-5 d-flex align-items-center">
