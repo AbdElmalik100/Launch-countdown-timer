@@ -61,7 +61,7 @@
 import { ref } from 'vue';
 
 // Graduation Date :) ♥
-const countDown = new Date("June 25, 2024 15:30:00").getTime()
+const countDown = new Date("May 20, 2026 15:30:00").getTime()
 
 const days = ref(0)
 const hours = ref(0)
